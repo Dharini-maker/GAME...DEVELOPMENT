@@ -1,27 +1,3 @@
-# EX 8 : THREE DIMENSIONAL IMAGE PROJECTIONS
-
-## AIM :
-    
-  To implement the projections in three dimensional image using a C coding.
-
-
-## ALGORITHM :
-
-   Step 1 : start.
-
-   Step 2 : Draw any image in the three dimensional plane.
-
-   Step 3 : Get the choice of axis as input from the user.
-
-   Step 4 : Perform the projection about the desired axis.
-
-   Step 5 : Display the projected image.
-
-   Step 6 : Stop.
-
-## Program :
-
-```
 #include<stdio.h> 
 #include<math.h> 
 #include<conio.h> 
@@ -115,22 +91,3 @@ draw_cube(edge);
 perspect(edge); 
 closegraph(); 
 }
-
-```
-
-## Output :
-
-![alt text](3dc1.jpg)
-
-![alt text](3dc2.jpg)
-
-![alt text](3dp45.jpg)
-
-![alt text](3dy.jpg)
-
-![alt text](3dz.jpg)
-
-## Result :
-
-Thus the projections on the three dimensional images was performed successfully and the output
-was verified
