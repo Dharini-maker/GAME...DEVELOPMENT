@@ -124,9 +124,21 @@ closegraph();
 
 ![alt text](3dc2.jpg)
 
+x-axis
+
+P=45
+
 ![alt text](3dp45.jpg)
 
+y-axis
+
+Q=45
+
 ![alt text](3dy.jpg)
+
+z-axis
+
+R=45
 
 ![alt text](3dz.jpg)
 
